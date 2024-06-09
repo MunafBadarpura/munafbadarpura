@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" type="x-icon" href="images/M Letter logo business template.svg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Munaf Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet"/>
+</head>
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+                <img src="images/logo2.png" class="logo" alt="LOGOimage">
+                <ul id="sidemenu">
+                    <li><a href="#header">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#skill">Skills</a></li>
+                    <li><a href="#project">Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                     <i class="ri-close-large-line remove" onclick="closemenu()"></i>
+                </ul>
+                <i class="ri-menu-fill remove" onclick="openmenu()"></i>
+            </nav>
+            <div class="header-text">
+                <p>Web Developer</p>
+                <h1 class="big">Hi, I'm <span>Munaf</span> <br> Badarpura From India</h1>
+                <h1 class="small">Hi, I'm <br> <span style="font-size: 40px;">Munaf</span></h1>
+            </div>
+        </div>
+    </div>
+
+    <!-- ------------------------ABOUT------------------- -->
+
+     <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="images/user2.png" alt="user">
+                </div>
+                <div class="about-col-2">
+                    <h1 class="sub-title">About Me</h1>
+                    <p>Hello! I'm Munaf, a dedicated B.Sc. IT student with a passion for web development and new technologies. As a budding developer, I am constantly exploring new technologies and honing my skills in HTML, CSS, JavaScript, and modern web frameworks like express for backend. My journey in web development began with a curiosity about how websites are built and a desire to create intuitive, user-friendly online experiences.
+                    </p>
+
+                    <div class="tab-titles">
+                        <p class="tab-links active-link" onclick="opentab('skills')" >Skills</p>
+                        <p class="tab-links" onclick="opentab('projects')" >Projects</p>
+                        <p class="tab-links" onclick="opentab('education')" >Education</p>
+                    </div>
+
+                    <div class="tab-contents active-tab" id="skills">
+                        <ul>
+                            <li><span>Web Development</span><br>Develop And Design Web-Applications</li>
+                            <li><span>DSA</span><br>Data Structures and Algorithms For Logic Building</li>
+                            <li><span>Programming Languages</span><br> Proficiency in Languages Like C,C++,JAVA </li>
+                        </ul>
+                    </div>
+
+                    <div class="tab-contents" id="projects">
+                        <ul>
+                            <li><span>Netflix Clone</span><br>Web Clone For Learning</li>
+                            <li><span>Weather App</span><br>An application that provides weather updates </li>
+                            <li><span>Portfolio</span><br>A personal portfolio website</li>
+                        </ul>
+                    </div>
+
+                    <div class="tab-contents" id="education">
+                        <ul>
+                            <li><span>2021</span><br>Secondary School Certificate - 74.45</li>
+                            <li><span>2023</span><br>Higher Secondary Certificate - 89.23</li>
+                            <li><span>In Progress</span><br>Bachelor of Science in Information Technology</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+         </div>
+     </div>
+
+
+    <!-- ------------------------Skills------------------- -->
+     <div id="skill">
+        <div class="container">
+            <h1 class="sub-title">My Skills</h1>
+            <div class="skills-list">
+                <div>
+                    <i class="ri-html5-fill"></i>
+                    <h2>Web Development</h2>
+                    <p>Explore the exciting world of web development! Learn about creating and interactive websites using HTML, CSS, JS and Frameworks.</p>
+                    <a href="#">Learn more</a>
+                </div>
+                <div>
+                    <i class="ri-code-box-fill"></i>
+                    <h2>Data Structures</h2>
+                    <p>Data structures for efficient problem-solving and analyze the time and space complexity of algorithms to optimize performance.</p>
+                    <a href="#">Learn more</a>
+                </div>
+                <div>
+                    <i class="ri-terminal-box-fill"></i>
+                    <h2>Programming</h2>
+                    <p>Programming languages like C, C++ and Java for dive into the diverse world of programming languages.</p>
+                    <a href="#">Learn more</a>
+                </div>
+            </div>
+        </div>
+     </div>
+
+    <!-- ------------------------portfolio------------------- -->
+     <div id="project">
+        <div class="container">
+            <h1 class="sub-title">My Projects</h1>
+            <div class="work-list">
+                <div class="work">
+                    <img src="images/worknet.png" alt="work-1">
+                    <div class="layer">
+                        <h3>Netflix Clone</h3>
+                        <p>A clone of Netflix's user interface using HTML and CSS.</p>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="images/WEARED.png" alt="work-1">
+                    <div class="layer">
+                        <h3>Weather App</h3>
+                        <p>A Weather forecast application to check the current weather in your location.</p>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="images/todoApp.png" alt="work-1">
+                    <div class="layer">
+                        <h3>Todo List App</h3>
+                        <p>A simple app to keep track of your daily tasks and to-dos.</p>
+                    </div>
+                </div>
+            </div>
+            <a class="btn" href="#">See More</a>
+        </div>
+     </div>
+
+     <!-- -------------contact------------------- -->
+      <div id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="contact-left">
+                    <h1 class="sub-title">Contact Me</h1>
+                    <p> <i class="ri-mail-send-fill"></i> munafbadarpura@gmail.com</p>
+                    <p> <i class="ri-mail-send-fill"></i> createy06@gmail.com</p>
+                    <!-- <p> <i class="ri-phone-fill"></i> +91 9313494303</p> -->
+                    <div class="social-icons">
+                        <a href="https://www.linkedin.com/in/munafbadarpura/"><i class="ri-linkedin-box-fill"></i></a>
+                        <a href="https://www.instagram.com/munafx_"><i class="ri-instagram-fill"></i></a>
+                        <a href="https://www.facebook.com/munaf.badarpura/"><i class="ri-facebook-circle-fill"></i></a>
+                        <a href="https://x.com/munaf_2414"><i class="ri-twitter-x-fill"></i></a>
+                    </div>
+                    <a href="images/finalPdf.pdf" class="btn btn2" download="">Download Web</a>
+                </div>
+                <div class="contact-right">
+                    <form name="submit-to-google-sheet">
+                        <input type="text" name="Name" placeholder="Your Name" required>
+                        <input type="email" name="Email" placeholder="Your Email" required>
+                        <textarea name="Message" placeholder="Your Message" rows="6"></textarea>
+                        <button type="submit" class="btn btn2" >Submit</button>
+                    </form>
+                    <span id="msg"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="copyright">
+            <p>Copyright <i class="ri-copyright-line"></i> Munaf. Made with Love <i class="ri-heart-fill"></i> </p>
+        </div>
+      </div>
+
+
+
+<script>
+
+    let tablinks = document.getElementsByClassName("tab-links");
+    let tabcontents = document.getElementsByClassName("tab-contents");
+    function opentab(tabname){
+        for(tablink of tablinks){
+            tablink.classList.remove("active-link");
+        }
+        for(tabcontent of tabcontents){
+            tabcontent.classList.remove("active-tab");
+        }
+        event.currentTarget.classList.add("active-link")
+        document.getElementById(tabname).classList.add("active-tab");
+    }
+
+</script>
+
+<script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzWpAmW-RkUEc81pAXeiGtKQZIsHskcfvKE2zfbmPJC2CP793urtb92UaG6L8njcRU/exec'
+    const form = document.forms['submit-to-google-sheet'];
+    const msg = document.getElementById("msg");
+
+  
+    form.addEventListener('submit', e => {
+      e.preventDefault()
+      fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+        .then(response => {
+            msg.innerHTML = "Message Sent Successfully"
+            setTimeout(function(){
+                msg.innerHTML = "";
+            }, 5000)
+            form.reset();
+        })
+        .catch(error => console.error('Error!', error.message))
+    })
+  </script>
+
+  <script>
+
+    let sidemenu = document.getElementById("sidemenu");
+
+    function openmenu(){
+        sidemenu.style.right = "0";
+    }
+
+    function closemenu(){
+        sidemenu.style.right = "-200px";
+    }
+
+  </script>
+</body>
+</html>
