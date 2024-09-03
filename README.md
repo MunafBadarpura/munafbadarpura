@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **backend development**
 
-- 👨‍💻 All of my projects are available at [https://munafbadarpura.github.io/munafbadarpura/](https://munafbadarpura.github.io/munafbadarpura/)
+- 👨‍💻 All of my projects are available at [https://github.com/MunafBadarpura)
 
 - 📝 I post learning on [https://x.com/munaf_2414](https://x.com/munaf_2414)
 
