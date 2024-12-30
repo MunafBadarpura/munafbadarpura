@@ -10,7 +10,7 @@
 
 - 📝 I post learning on [https://x.com/munaf_2414](https://x.com/munaf_2414)
 
-- 💬 Ask me about **express,react**
+- 💬 Ask me about **Java,Spring Boot,react**
 
 - 📫 How to reach me **munafbadarpura11@gmail.com**
 
