@@ -5,7 +5,7 @@
 
 - ✨ I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://munafbadarpura.github.io/munafbadarpura/](https://munafbadarpura.github.io/munafbadarpura/)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/MunafBadarpura">https://github.com/MunafBadarpura</a><br>
 
 - 📝 I post learning on [https://www.linkedin.com/in/munafbadarpura/](https://www.linkedin.com/in/munafbadarpura/)
 
