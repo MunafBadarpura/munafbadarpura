@@ -90,3 +90,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munafbadarpura&show_icons=true&locale=en" alt="munafbadarpura" /></p>
 
+
+
+![snake gif](https://github.com/MunafBadarpura/MunafBadarpura/blob/output/github-snake-dark.svg)
