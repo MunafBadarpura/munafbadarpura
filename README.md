@@ -9,7 +9,7 @@
 
 - 📝 I post learning on [https://www.linkedin.com/in/munafbadarpura/](https://www.linkedin.com/in/munafbadarpura/)
 
-- 💬 Ask me about **Java,SpringBoot,React,MySQL**
+- 💬 Ask Me about **Java,SpringBoot,React,MySQL**
 
 - 📫 How to reach me **munafbadarpura11@gmail.com**
 
