@@ -9,11 +9,11 @@
 
 - 📝 I post learning on [https://www.linkedin.com/in/munafbadarpura/](https://www.linkedin.com/in/munafbadarpura/)
 
-- 💬 Ask Me about **Java,SpringBoot,React,MySQL**
+- 💬 Ask me about **Java,SpringBoot,React,MySQL**
 
 - 📫 How to reach me **munafbadarpura11@gmail.com**
 
-- 🚀 ERP SYSTEM PROJECT [https://github.com/MunafBadarpura/SIMPLE-ERP-SYSTEM](https://github.com/MunafBadarpura/SIMPLE-ERP-SYSTEM)
+- 🚀 Resume [https://drive.google.com/file/d/1sDYW4E8sqmROKgaT-BIFENLNUQA-b0c9/view?usp=sharing](https://drive.google.com/file/d/1sDYW4E8sqmROKgaT-BIFENLNUQA-b0c9/view?usp=sharing)
 
 - ⚡ Portfolio **https://munafbadarpura.github.io/MunafBadarpuraPortfolio/**
 <picture>
